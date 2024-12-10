@@ -1,0 +1,10 @@
+{
+  "database" : {
+    "name" : "MyDatabase",
+    "databaseType" : "ORACLE_DATABASE",
+    "virtualPrivateDatabase" : false,
+    "crmMetadataTables" : false,
+    "allowDirectDatabaseRequests" : false,
+    "allowPopulateQueries" : false
+  }
+}
